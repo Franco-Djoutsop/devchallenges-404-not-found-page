@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https:////app.netlify.com">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://app.netlify.com/sites/hilarious-fox-05da66/deploys/63ab38343258e446814acaab">
       Solution
     </a>
     <span> | </span>
@@ -41,8 +41,11 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
+you can see my demo to follow this link <a href="https://app.netlify.com/sites/hilarious-fox-05da66/deploys/63ab38343258e446814acaab">
 - What was your experience?
+i'm we developper
 - What have you learned/improved?
+i have learned that when you already have a model, coding becomes easy
 - Your wisdom? :)
 
 ### Built With
